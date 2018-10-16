@@ -12,7 +12,7 @@
 
  */
 
-#include <SD.h>
+#include "SD.h"
 #ifndef __SD_t3_H__
 
 /* for debugging file open/close leaks
