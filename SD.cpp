@@ -607,5 +607,5 @@ void File::rewindDirectory(void) {
     _file->rewind();
 }
 
-SDClass SD;
+// SDClass SD;
 #endif
